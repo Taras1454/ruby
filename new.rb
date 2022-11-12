@@ -1,0 +1,2 @@
+b= gets
+puts 'b'
